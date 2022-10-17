@@ -55,3 +55,8 @@ Note :- stap 1 to 6 is for first time installation or configartaion. After first
 # git chechout -b "new-Branch"
 
 GSSOC : Google summer school of code
+
+# Delete file from git hub
+1. Delete file from local host.
+2. git commit -m "delete file"
+3.
