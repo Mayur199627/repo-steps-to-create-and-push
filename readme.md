@@ -58,5 +58,6 @@ GSSOC : Google summer school of code
 
 # Delete file from git hub
 1. Delete file from local host.
-2. git commit -m "delete file"
-3.
+2. git add .
+3. git commit -m "delete file"
+4. git push origin master
